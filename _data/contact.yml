@@ -10,7 +10,7 @@
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
-  url: 'yehudataylor123@gmail.com'
+  url: 'contact@yehudataylor.com'
 
 # - type: rss
 #   icon: "fas fa-rss"

@@ -22,7 +22,7 @@ order: 4
 - 📒 under construction 🚧
 
 ## Contact Me
-- 📧 Email: yehudataylor123@gmail.com
+- 📧 Email: contact@yehudataylor.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/yehuda-taylor/)
 
 ## Open Source Contributions
