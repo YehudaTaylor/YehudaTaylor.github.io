@@ -19,7 +19,7 @@ order: 4
 
 
 ## Blog/Portfolio
-- 📒 [Blog](https:yehudataylor.com) under construction 🚧
+- 📒 under construction 🚧
 
 ## Contact Me
 - 📧 Email: yehudataylor123@gmail.com
