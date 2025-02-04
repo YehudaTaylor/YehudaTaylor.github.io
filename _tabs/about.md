@@ -6,12 +6,11 @@ order: 1
 
 ### Hi there 👋
 - 📚 BSc Computer Science at the University of London
-- 🌱 I’m currently learning Databases, Natural Language Processing (NLP), Arduino and IoT, General AI concepts
 - 🔭 I’m currently working on a Chrome Plugin
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yehuda-taylor/)
 
 ## Education
-- 🎓 BSc Computer Science from [University of London](https://www.london.ac.uk/) (final year)
+- 🎓 BSc Computer Science from [University of London](https://www.london.ac.uk/)
 
 ## Work Experience
 - [Trackmatic Solutions](https://trackmatic.co.za/) - Junior Software Developer
@@ -19,7 +18,7 @@ order: 1
 
 
 ## Blog/Portfolio
-- 📒 under construction 🚧
+- 📒 Your are here!
 
 ## Contact Me
 - 📧 Email: contact@yehudataylor.com
