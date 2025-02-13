@@ -21,7 +21,7 @@ GitHub repository: [https://github.com/YehudaTaylor/hydro-shepherd/](https://git
 - [**System Development Life Cycle**](#system-development-life-cycle)
   - [Requirements Analysis](#requirements-analysis)
   - [Design](#design)
-  - [Implementation/Development](#implementation/development)
+  - [Implementation/Development](#implementation-development)
     - [Server-Node Code and Hardware](#server-node-code-and-hardware)
     - [Dispenser-Node Code and Hardware](#dispenser-node-code-and-hardware)
 - [**Testing**](#testing)
@@ -185,7 +185,7 @@ Data will flow between nodes in the following manner. Nodes can be accessed via 
 
 Figure: Data flow between nodes
 
-### Implementation/Development  {#implementation/development}
+### Implementation/Development  {#implementation-development}
 
 As per the design of the project there are two main hardware components to implement.
 
@@ -223,7 +223,6 @@ The JSON response can be seen in the following Figure.
 ![][image7]  
 Figure: Server Node HTTP \` JSON response 
 
-#### 
 
 #### Dispenser-Node code and hardware {#dispenser-node-code-and-hardware}
 
