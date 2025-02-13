@@ -13,6 +13,8 @@ A hydration tracking and dispensing system designed for assisted living faciliti
 
 GitHub repository: [https://github.com/YehudaTaylor/hydro-shepherd/](https://github.com/YehudaTaylor/hydro-shepherd).
 
+(N.B. This is a work in progress).
+
 ## Table of Contents
 
 - [**Introduction**](#introduction)
@@ -160,7 +162,7 @@ In order to implement this architecture, hardware components are required. Most 
 
 **Communication protocols**:
 
-* HTTP (REST): as required by coursework  
+* HTTP (REST): as per requirements  
 * WiFi: connect nodes together  
 * RFID: cheap and scalable identification tags
 
@@ -316,8 +318,6 @@ Include error logging in the code, through Crashlytics[\[14\]] or Sentry [\[15\]
 
 ### Planning {#planning}
 
-The project was planned in sprints, starting after the midterm submission in January 2024\.
-
 The plan was to work in sprints, with work broken down and assigned to a given sprint.  
 ![][image13]  
 Figure: Gantt Chart of Sprints.   
@@ -398,7 +398,6 @@ While this is only a prototype there is definitely real world application, and t
 
 As detailed in the critical reflection section, there are several challenges that still need to be solved with the implementation itself, and the solution as a whole needs further features before deploying it into an assisted living facility. 
 
-To conclude, this course has really opened up a whole new world. I'm really happy that I took it, and got to implement a real world solution in this project. 
 
 ## References  {#references}
 
