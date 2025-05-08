@@ -9,7 +9,7 @@ pin: True
 
 The core idea behind this project is to get an LLM to interview someone for a given job.
 
-GitHub repo: [https://github.com/YehudaTaylor/ai-interview-coach](https://github.com/YehudaTaylor/ai-interview-coachhttps:/)
+GitHub repo: [https://github.com/YehudaTaylor/ai-interview-coach](https://github.com/YehudaTaylor/ai-interview-coach)
 
 Additional reasons for the project.
 
