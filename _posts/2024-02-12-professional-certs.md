@@ -3,7 +3,7 @@ title: Professional certificates
 date: 2024-02-12 16:00:00 +0200
 categories: [Certificates, Professional]
 tags: [certificates, development, learning, coursera]
-pin: true
+pin: False
 ---
 # Professional certificates
 

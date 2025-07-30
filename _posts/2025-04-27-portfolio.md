@@ -3,7 +3,7 @@ title: Portfolio
 date: 2025-04-27 12:00:00 +0200
 categories: [Portfolio]
 tags: [development, learning, project]
-pin: True
+pin: False
 ---
 
 # Portfolio
@@ -18,3 +18,7 @@ GitHub repo: [https://github.com/YehudaTaylor/ai-interview-coach](https://github
 
 ### 3D Printing Website
 URL - [https://3d-printing-website-eta.vercel.app/](https://3d-printing-website-eta.vercel.app/)
+
+### P5.js projects
+
+2D game [2D Game](https://itp-1-game-project.vercel.app/)
