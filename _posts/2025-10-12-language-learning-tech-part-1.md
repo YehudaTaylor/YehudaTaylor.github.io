@@ -9,7 +9,7 @@ pin: False
 
 ## Building Custom Software In The AI Age
 
-The goal of this software is to build up a vocabulary through spaced repitition.
+The core functionality of this software is to help the user build up a vocabulary through spaced repitition.
 The key differentiators of this software are as follows:
 
 * Custom vocabulary. In contrast to prebuilt Anki decks which may not contain relavent words.
@@ -17,9 +17,14 @@ The key differentiators of this software are as follows:
 
 ### First Iteration: vocab-tracker
 
-Source code: [https://github.com/YehudaTaylor/vocab-tracker](https://github.com/YehudaTaylor/vocab-trackerhttps:/)
-
 A full-stack web app to help users translate and track English words into Hebrew. Built with React, Node.js, Express, and PostgreSQL. Words are translated via the Google Translate API and saved with their translation and date for easy review and practice.
+
+Source code: [https://github.com/YehudaTaylor/vocab-tracker](https://github.com/YehudaTaylor/vocab-tracker). 
+
 
 
 Built with Claude Code.
+
+
+
+
