@@ -10,7 +10,9 @@ pin: False
 ## hebrew-vocab-builder
 
 A Full Stack app to help Hebrew learners increase their vocabulary.
+
 Built with Claude Code.
+
 Deployed at [https://hebrew-vocab-builder.vercel.app](https://hebrew-vocab-builder.vercel.app)
 
 ## AI Interview Coach
